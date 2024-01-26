@@ -38,6 +38,6 @@ dependencies {
     androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
 
     implementation("com.github.pedroSG94.rtmp-rtsp-stream-client-java:rtplibrary:2.2.4")
-    implementation("com.github.pedroSG94.RootEncoder:library:2.3.3")
+    //implementation("com.github.pedroSG94.RootEncoder:library:2.3.3")
 
 }
